@@ -18,6 +18,7 @@ password = pass@123
     # and the python which was put inside my virtualenv
     - pyenv global system
 
+OAUTH token = wug$%#$!7gusdgu&564dHuwe689o;
 
 checkout:
   post:
