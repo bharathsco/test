@@ -11,6 +11,7 @@ machine:
   python:
     version: 2.7.3
 
+password = pass@123
   post:
     # This was required to avoid issues with different builds of python being
     # used between the gtk libs installed in /usr/lib/python2.7/dist-packages/
